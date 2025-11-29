@@ -1,0 +1,6 @@
+Issue_ID,Tenant_ID,Property_ID,Officer_ID,Issue_Type,Priority,Date_Logged,Date_Resolved,Resolution_Outcome
+I0001,T001,P001,O001,Repairs,High,2024-01-05,2024-01-08,Fixed
+I0002,T002,P001,O003,Noise,Medium,2024-01-11,2024-01-20,Fixed
+I0003,T003,P002,O002,Rent Arrears,High,2024-01-15,,Escalated
+I0004,T004,P003,O004,ASB,Low,2024-02-02,2024-02-05,Fixed
+I0005,T005,P004,O005,Cleanliness,Medium,2024-02-10,2024-02-14,Fixed
